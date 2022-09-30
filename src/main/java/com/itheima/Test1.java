@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println("master commit");
         System.out.println("create new branches");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
