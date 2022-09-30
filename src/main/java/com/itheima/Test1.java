@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("create new branches");
         System.out.println("hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
